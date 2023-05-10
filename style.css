@@ -2,7 +2,9 @@ main{
     text-align: center;
 }
 
-body{background-image: url(türkisz.webp);}
+body{
+    background-image: url('türkisz.webp');
+}
 
 .center{
     align-self: center;

@@ -3,3 +3,7 @@ main{
 }
 
 body{background-image: url(türkisz.webp);}
+
+.center{
+    align-self: center;
+}
